@@ -9,3 +9,4 @@ f864741ffb4a8e73a46db8cd55504943c933ab7f ab8c6437b9cf69e8fa07f1a22b8b4b5c7aa7d94
 ab8c6437b9cf69e8fa07f1a22b8b4b5c7aa7d94c ab8c6437b9cf69e8fa07f1a22b8b4b5c7aa7d94c Pendleton Jones <me@pendletonjones.com> 1581475922 -0500	checkout: moving from master to change-documentation
 ab8c6437b9cf69e8fa07f1a22b8b4b5c7aa7d94c f864741ffb4a8e73a46db8cd55504943c933ab7f Pendleton Jones <me@pendletonjones.com> 1581476026 -0500	reset: moving to f864741ffb4a8e73a46db8cd55504943c933ab7f
 f864741ffb4a8e73a46db8cd55504943c933ab7f 576dff8053811a4e3db2973f52714a29780e4a91 Pendleton Jones <me@pendletonjones.com> 1581476155 -0500	commit: make changes to documentation
+576dff8053811a4e3db2973f52714a29780e4a91 ab8c6437b9cf69e8fa07f1a22b8b4b5c7aa7d94c Pendleton Jones <me@pendletonjones.com> 1581476209 -0500	checkout: moving from change-documentation to master
